@@ -856,7 +856,8 @@
         "physicalRelease": "Wydanie fizyczne",
         "digitalRelease": "Wydanie cyfrowe",
         "noEventsToday": "Brak wydarzeń na dziś!",
-        "noEventsFound": "Nie znaleziono wydarzeń"
+        "noEventsFound": "Nie znaleziono wydarzeń",
+        "errorWhenLoadingData": "Error when loading calendar data"
     },
     "romm": {
         "platforms": "Platformy",
@@ -1042,5 +1043,11 @@
         "downloads": "Downloads",
         "uploads": "Uploads",
         "sharedFiles": "Pliki"
+    },
+    "jellystat": {
+        "songs": "Piosenki",
+        "movies": "Filmy",
+        "episodes": "Odcinki",
+        "other": "Other"
     }
 }
